@@ -1,8 +1,6 @@
 gcr.io/cadvisor/cadvisor:v0.49.1
 prom/node-exporter:latest
 grafana/grafana:latest
-prom/prometheusz:latest
-registry.k8s.io/ingress-nginx/controller:v1.8.0
 nginx:latest
 nginx:1.22
 nginx:1.20
