@@ -1,1 +1,14 @@
-gcr.io/cadvisor/cadvisor:v0.47.0
+gcr.io/cadvisor/cadvisor:v0.49.1
+prom/node-exporter:latest
+grafana/grafana:latest
+prom/prometheusz:latest
+registry.k8s.io/ingress-nginx/controller:v1.8.0
+nginx:latest
+nginx:1.22
+nginx:1.20
+mysql:8.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
+kubernetesui/metrics-scraper:v1.0.8
+kubernetesui/dashboard:v2.7.0
+registry.k8s.io/metrics-server/metrics-server:v0.6.3
+php:8-apache
